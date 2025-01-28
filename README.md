@@ -70,6 +70,11 @@ Ensure the following tools are installed on your local machine:
    bash scripts/setup.sh
    ```
 
+6. Run the deploy script for full Deployment:
+   ```bash
+   bash scripts/deploy.sh
+   ```
+
 ### **CI/CD Pipeline Setup**
 1. **Jenkins Configuration**:
    - Install Jenkins and required plugins (e.g., Terraform, SonarQube, and GitHub integration).
