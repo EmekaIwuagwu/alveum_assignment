@@ -46,7 +46,7 @@ Ensure the following tools are installed on your local machine:
 ### **Setup Steps**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/EmekaIwuagwu/alveum-terraform-assignment.git
+   git clone https://github.com/EmekaIwuagwu/alveum_assignment.git
    cd alveum-terraform-assignment
    ```
 
