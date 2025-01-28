@@ -65,7 +65,7 @@ Ensure the following tools are installed on your local machine:
    terraform apply
    ```
 
-5. Run the setup script for additional configurations:
+5. Run the setup script for additional configurations (If Any):
    ```bash
    bash scripts/setup.sh
    ```
